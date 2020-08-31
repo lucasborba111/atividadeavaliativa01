@@ -4,24 +4,24 @@
 <table border rules="none" border="2" width="800">
 <tr>
 <td>
-<ul>Programação</ul>
+:point_right: Programação
 </td>
 </tr>
 <tr>
 <td>
-<ul>Ano</ul>
+:point_right: Ano
 </td>
 </tr>
 <tr>
 <td>
-<ul>Descrição: Fase 2 voltada em programação python no visual studio code   :rocket:</ul>
+:point_right: Descrição: Fase 2 voltada em programação python no visual studio code   :rocket:   
 </td>
 </tr>
 <tr>
 <td>
-<ul>Linguagem: Python</ul>
+:point_right: Linguagem: Python
 </td>
 </tr>
 </table>
-<a href="https://github.com/lucasborba111/atividadeavaliativa01.git">https://github.com/lucasborba111/atividadeavaliativa01.git</a>
+<a href="https://github.com/lucasborba111/atividadeavaliativa01.git">:point_right: https://github.com/lucasborba111/atividadeavaliativa01.git</a>
 
