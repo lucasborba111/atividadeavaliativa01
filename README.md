@@ -4,6 +4,6 @@
 <h4>♤Programação♤</h4>
 <h4>♤Ano♤</h4>
 <h4>♤Descrição: Fase 2 voltada em programação python no visual studio code♤   :rocket:</h4>
-<h4>♤Linguagem♤: Python</h4>
-<a href="https://github.com/lucasborba111/atividadeavaliativa01.git"><h4>https://github.com/lucasborba111/atividadeavaliativa01.git</h4></a>
+<h4>♤Linguagem: Python♤</h4>
+<a href="https://github.com/lucasborba111/atividadeavaliativa01.git">https://github.com/lucasborba111/atividadeavaliativa01.git</a>
 
