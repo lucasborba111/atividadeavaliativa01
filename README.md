@@ -1,7 +1,7 @@
 # atividadeavaliativa01
 <img src = "https://www1.satc.edu.br/portais/alunos/assets/img/logoSatc.png">
 <h2>♛Informática♛</h2>
-<table border rules="none" border="2" width="800">
+<table border rules="none" border="2" width="1000">
 <tr>
 <td>
 :heavy_check_mark: Programação
