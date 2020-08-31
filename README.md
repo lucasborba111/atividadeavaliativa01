@@ -23,5 +23,6 @@
 </td>
 </tr>
 </table>
-<a href="https://github.com/lucasborba111/atividadeavaliativa01.git">:point_right: https://github.com/lucasborba111/atividadeavaliativa01.git</a>
+<a href="https://github.com/lucasborba111/atividadeavaliativa01.git">:point_right: Atividades
+<a href="https://www.instagram.com/lucas_borba11/?hl=pt-br">Instagram</a>
 
