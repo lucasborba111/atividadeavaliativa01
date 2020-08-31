@@ -1,5 +1,5 @@
 # atividadeavaliativa01
-<img src = "https://www1.satc.edu.br/portais/alunos/assets/img/logoSatc.png"> <img src = "https://images.hdqwalls.com/download/python-qhd-3840x2160.jpg" data-noaft="1" jsaction="load:xaezkd,gvk6lb;" height="65" width="140">
+<img src = "https://www1.satc.edu.br/portais/alunos/assets/img/logoSatc.png"> <img src = "https://images.hdqwalls.com/download/python-qhd-3840x2160.jpg" height="100" width="150" align="right">
 <h2>♛Informática♛</h2>
 <table border rules="none" border="2">
 <tr>
