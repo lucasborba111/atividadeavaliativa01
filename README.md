@@ -1,7 +1,7 @@
 # atividadeavaliativa01
-<img src = "https://www1.satc.edu.br/portais/alunos/assets/img/logoSatc.png">
+<img src = "https://www1.satc.edu.br/portais/alunos/assets/img/logoSatc.png"> <img src="https://w0.pngwave.com/png/364/982/python-programming-language-computer-programming-language-png-clip-art.png">
 <h2>♛Informática♛</h2>
-<table border rules="none" border="2" width="1000">
+<table border rules="none" border="2">
 <tr>
 <td>
 :heavy_check_mark: Programação
