@@ -4,22 +4,22 @@
 <table border rules="none" border="2" width="800">
 <tr>
 <td>
-:writing_hand: Programação
+:heavy_check_mark: Programação
 </td>
 </tr>
 <tr>
 <td>
-:writing_hand: Ano
+:heavy_check_mark: Ano
 </td>
 </tr>
 <tr>
 <td>
-:writing_hand: Descrição: Fase 2 voltada em programação python no visual studio code   :rocket:   
+:heavy_check_mark: Descrição: Fase 2 voltada em programação python no visual studio code   :rocket:   
 </td>
 </tr>
 <tr>
 <td>
-:writing_hand:Linguagem: Python
+:heavy_check_mark:Linguagem: Python
 </td>
 </tr>
 </table>
